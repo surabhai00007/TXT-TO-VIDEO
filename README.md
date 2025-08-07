@@ -41,7 +41,7 @@
 3. Click "New Web Service"
 4. Connect GitHub and select your repo
 5. Set build command: pip install -r requirements.txt
-6. Set start command: python3 bot.py
+6. Set start command: python3 main.py
 7. Add environment variables: API_ID, API_HASH, BOT_TOKEN, etc.
 8. Click "Deploy"
 ```
