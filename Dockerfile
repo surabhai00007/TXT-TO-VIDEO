@@ -21,3 +21,5 @@ ENV COOKIES_FILE_PATH="youtube_cookies.txt"
 
 # Start the application (only one main process recommended)
 CMD ["python3", "main.py"]
+
+#spidy
