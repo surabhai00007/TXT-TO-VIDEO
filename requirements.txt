@@ -15,6 +15,7 @@ TgCrypto==1.2.5
 urllib3==2.0.3
 websockets==11.0.3
 yt-dlp==2025.01.26
+youtube-dl
 motor
 aiohttp
 aiofiles
@@ -27,14 +28,14 @@ gunicorn==20.1.0
 Jinja2==3.0.3
 werkzeug==2.0.2
 itsdangerous==2.0.1
-youtube-dl
 pytube==15.0.0
 bs4
 beautifulsoup4
 cloudscraper
 m3u8
 python-telegram-bot==20.3
-requests==2.31.0
 pywidevine
+
+
 
 
