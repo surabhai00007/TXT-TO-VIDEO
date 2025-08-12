@@ -31,6 +31,9 @@
 
 ### 🚀 Deploy to Heroku
 
+#### **1-Click Deploy:**
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/surabhai00007/TXT-TO-VIDEO)
+
 #### **Manual Setup on Render:**
 ```bash
 1. Fork the repo
