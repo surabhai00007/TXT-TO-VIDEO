@@ -35,6 +35,9 @@ cloudscraper
 m3u8
 python-telegram-bot==20.3
 pywidevine
+pycryptodomex   
+asyncio 
+pyrofork 
 
 
 
