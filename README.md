@@ -29,9 +29,7 @@
 
 ---
 
-### 🚀 Deploy to Render
-
-https://dashboard.heroku.com/new?template=https://github.com/surabhai00007/TXT-TO-VIDEO
+### 🚀 Deploy to Heroku
 
 #### **Manual Setup on Render:**
 ```bash
