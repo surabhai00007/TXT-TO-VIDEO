@@ -31,11 +31,7 @@
 
 ### 🚀 Deploy to Render
 
-#### **1-Click Deploy:**
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yourusername/TXT-TO-VIDEO)
-
-#### **1-Click Deploy:**
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/TXT-TO-VIDEO)
+https://dashboard.heroku.com/new?template=https://github.com/surabhai00007/TXT-TO-VIDEO
 
 #### **Manual Setup on Render:**
 ```bash
